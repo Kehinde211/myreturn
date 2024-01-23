@@ -1,0 +1,31 @@
+body {
+    background-color:rgb(229, 152, 216, 0.5) ;
+    font-family: serif;
+}
+.recipes {
+    background-color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding: 50px;
+    margin: 50px;
+}
+img {
+    margin: auto;
+    width:auto;
+    border: 1px;
+    border-radius: 8px;
+}
+h2, h3, h4, h5 {
+    color: #8650bc;
+   } 
+.first {
+    background-color: rgb(229, 152, 216, 0.5);
+    border: 1px thin;
+    border-radius: 8px;
+    opacity: 1.0;
+    padding: 20px;
+    width: auto;
+}
+.nutrition {
+    word-spacing: 300px;
+}
